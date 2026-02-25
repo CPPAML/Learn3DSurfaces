@@ -1,4 +1,4 @@
-# LearnEDSurfaces
+# Learn3DSurfaces
 3D Surface Pipecleaner Models
 
 We put together this activity to help students explore using traces to understand three-dimensional surfaces.   Each pipecleaner is a trace of the surface, and students can compare these to their corresponding equations.  This gives students a hands-on way to interact with three-dimensional equations.
